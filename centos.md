@@ -1,0 +1,14 @@
+1. centos 安装 SS服务器
+
+    1. `wget –no-check-certificate https://tangyuecan.com/shadowsocks-go.sh`
+    2. `chmod +x shadowsocks-go.sh`
+    3. `./shadowsocks-go.sh 2>&1 | tee shadowsocks-go.log `
+    4. 接下来就是傻瓜式的配置端口密码
+    5. 下面是之后的常用命令
+    6. 重启
+        ```
+            # start | stop | restart | status
+            # 重启
+            /etc/init.d/shadowsocks restart
+        ```
+    7. 卸载 `./shadowsocks.sh uninstall`
