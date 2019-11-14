@@ -1,3 +1,4 @@
+ ##### centOS 上vim安装
  > [vim](https://blog.csdn.net/houqd2012/article/details/8111738)
  确认一下你的VIM是否已经安装 `rpm -qa|grep vim`
 
@@ -8,7 +9,7 @@
    vim-common-7.0.109-7.el5
 ```
 
-##### 高亮
+##### MAC上VIM高亮
 
 1. `cp /usr/share/vim/vimrc ~/.vimrc`
 2. `vi ~/.vimrc`
