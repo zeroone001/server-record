@@ -9,7 +9,8 @@ git remote add origin https://github.com/zeroone001/book-collection.git
 
 git push -u origin master
 ```
-1. submodule Git
+
+3. submodule Git
 
 指定文件目录
 
@@ -21,4 +22,15 @@ git push -u origin master
  从该项目中抓取所有数据并检出父项目中列出的合适的提交(指定的提交)
  
 `git submodule update`
-1. 
+
+
+4. git alias 命令的别名
+   
+> [自定义Git命令](https://www.kawabangga.com/posts/2177)
+
+`vim ~/.gitconfig`
+
+```
+[alias]
+    s = status
+```
