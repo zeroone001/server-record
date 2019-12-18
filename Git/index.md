@@ -34,3 +34,10 @@ git push -u origin master
 [alias]
     s = status
 ```
+5. permission denied, open '/Users/smzdm/.npm/
+
+```
+sudo chown -R $USER:$GROUP ~/.npm
+sudo chown -R $USER:$GROUP ~/.config
+sudo npm cache clean -f
+```
