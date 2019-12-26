@@ -24,3 +24,15 @@
 `yum install nodejs`
 `yum install npm`
 
+##### yum
+
+`yum module list`
+
+##### pm2
+
+`npm i pm2 -g`
+
+显示隐藏文件夹
+
+`ls -a`
+
