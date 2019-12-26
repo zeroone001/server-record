@@ -6,3 +6,5 @@ alias atom='/Applications/Atom.app/Contents/MacOS/Atom'
 alias subl='/Applications/SublimeText.app/Contents/SharedSupport/bin/subl'
 alias code='/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code'
 ```
+
+`WwKnDas4aEmE`
