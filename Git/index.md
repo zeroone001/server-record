@@ -6,6 +6,8 @@
     git config --global user.name 'zeroone001'
     git config --global user.email 'ilylys@163.com'
 
+    git config --list
+
 ```
 1. 解决git status 不显示中文？
 

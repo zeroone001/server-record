@@ -2,6 +2,10 @@
 # install
 npm install -g pm2 
 
+# 检查是否装好
+
+pm2 --version
+
 # Usage
 pm2 start server.js
 pm2 restart ID
