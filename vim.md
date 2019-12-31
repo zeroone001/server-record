@@ -14,6 +14,7 @@
 1. `cp /usr/share/vim/vimrc ~/.vimrc`
 2. `vi ~/.vimrc`
 3. 
+把下面的这些配置放到文件里
 ```s
 set nocompatible "去掉有关vi一致性模式，避免以前版本的bug和局限
 

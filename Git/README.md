@@ -52,3 +52,6 @@ sudo chown -R $USER:$GROUP ~/.npm
 sudo chown -R $USER:$GROUP ~/.config
 sudo npm cache clean -f
 ```
+#### Mac 安装Git
+
+> [下载链接](https://sourceforge.net/projects/git-osx-installer/)
