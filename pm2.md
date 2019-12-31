@@ -1,6 +1,6 @@
 ```s
 # install
-npm install -g pm2 
+npm install -g pm2
 
 # 检查是否装好
 
@@ -40,4 +40,8 @@ pm2 start npm --name "xxx" -- run build
 `pm2 start npm --name test -- start`
 
 #### Cluster and Fork mode difference in PM2
+
+#### nuxt
+
+`pm2 start /data/yourproject/process.json`
 
