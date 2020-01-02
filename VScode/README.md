@@ -7,3 +7,11 @@
    
 * 使用：点到<template>里面，获取焦点；
 * 右键autoScssStruct
+
+#### Plugins如下
+
+1. View In Browser # 浏览器里面打开文件
+2. AutoScssStruct4Vue #根据Vue模板自动生成Scss结构
+3. vue # Syntax Highlight for Vue.js
+
+
