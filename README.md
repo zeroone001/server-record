@@ -31,5 +31,12 @@ cd /usr/local/Cellar/node/13.5.0/lib/node_modules/npm/
 cd /usr/local/lib/node_modules/
 
 ```
+#### Mac + ADB Android调试桥
 
+```s
+# install
+brew cask install android-platform-tools
+# 测试是否正常安装
+adb devices
+```
 
