@@ -10,11 +10,10 @@ Homebrew的安装很简单，只需在终端下输入如下指令
 
 #### Mac + Node
 
-`brew install node`
+PS： 不要用brew装，直接去官网下载
 
 ```s
 sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
-
 xcodebuild -license
 ```
 
