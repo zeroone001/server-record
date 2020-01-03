@@ -43,5 +43,5 @@ pm2 start npm --name "xxx" -- run build
 
 #### nuxt
 
-`pm2 start /data/yourproject/process.json`
+`pm2 start /data/yourproject/processes.json`
 

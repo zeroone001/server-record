@@ -29,6 +29,9 @@ cd /usr/local/Cellar/node/13.5.0/lib/node_modules/npm/
 # 复制里面的文件，到下面的路径
 cd /usr/local/lib/node_modules/
 
+# NPM 全局安装的依赖放置位置
+/usr/local/lib/node_modules/
+
 ```
 #### Mac + ADB Android调试桥
 

@@ -10,5 +10,6 @@
 
 ```s
 npm config ls # 可以查看npm配置的信息
+npm config edit # 可以直接配置
 
 ```
