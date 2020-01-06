@@ -45,3 +45,6 @@ pm2 start npm --name "xxx" -- run build
 
 `pm2 start /data/yourproject/processes.json`
 
+#### 报错：[PM2] Spawning PM2 daemon with pm2_home=/root/.pm2
+
+解决方案： 调整node版本
