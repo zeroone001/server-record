@@ -39,3 +39,4 @@
 ##### Centos查看端口占用情况和开启端口命令
 
 `netstat -ntlp`
+`netstat -lnp|grep 8000`
