@@ -1,4 +1,5 @@
 #### centos install nginx
+
 ```s
 # install
 yum install nginx -y

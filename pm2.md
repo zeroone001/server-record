@@ -43,7 +43,7 @@ pm2 start npm --name "xxx" -- run build
 
 #### nuxt
 
-`pm2 start /data/yourproject/processes.json`
+`pm2 start /data/yourproject/s.json`
 
 #### 报错：[PM2] Spawning PM2 daemon with pm2_home=/root/.pm2
 

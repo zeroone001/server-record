@@ -41,4 +41,7 @@ brew cask install android-platform-tools
 # 测试是否正常安装
 adb devices
 ```
-
+#### Mac + chrome
+```s
+open -n /Applications/Google\ Chrome.app/ --args --disable-web-security  --user-data-dir=/Users/smzdm/MyChromeDevUserData/
+```
