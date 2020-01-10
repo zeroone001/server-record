@@ -22,3 +22,13 @@ Enter same passphrase again: [Type passphrase again]
 cat ~/.ssh/id_rsa.pub
 
 3. `ssh-copy-id -i ~/.ssh/id_rsa.pub -p 27518 root@104.160.34.211` 关键
+
+#### CPU core
+
+> [https://blog.csdn.net/u011636440/article/details/78611838](https://blog.csdn.net/u011636440/article/details/78611838)
+```s
+# 物理CPU
+cat /proc/cpuinfo| grep "cpu cores"| uniq
+# 逻辑CPU
+cat /proc/cpuinfo| grep "processor"| wc -l
+```

@@ -2,8 +2,12 @@
 
 1. `wget –no-check-certificate https://tangyuecan.com/shadowsocks-go.sh`
 2. `chmod +x shadowsocks-go.sh`
-3. `./shadowsocks-go.sh 2>&1 | tee shadowsocks-go.log `
+3. `./shadowsocks-go.sh 2>&1 | tee shadowsocks-go.log`
 4. 接下来就是傻瓜式的配置端口密码
+```s
+cd /etc/shadowsocks/
+vim config.json
+```
 5. 下面是之后的常用命令
 6. 重启
 ```
