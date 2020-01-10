@@ -14,4 +14,6 @@
 2. AutoScssStruct4Vue #根据Vue模板自动生成Scss结构
 3. vue # Syntax Highlight for Vue.js
 
+#### 主题插件
 
+[atomiks.moonlight](https://github.com/atomiks/moonlight-vscode-theme)
