@@ -45,3 +45,6 @@ adb devices
 ```s
 open -n /Applications/Google\ Chrome.app/ --args --disable-web-security  --user-data-dir=/Users/smzdm/MyChromeDevUserData/
 ```
+#### shell
+
+[Linux command](http://linuxcommand.org/index.php)
