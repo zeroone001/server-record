@@ -12,7 +12,9 @@
 ls -a # 查看隐藏的文件 all
 ls -l # long 详细信息
 ls -lh # 查看更容易识别
+# 复制
 cp file1 file2
 cp -R folder1/ folder2/
-
+# 剪切
+mv file1 folder/
 ```
