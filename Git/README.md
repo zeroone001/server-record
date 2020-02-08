@@ -55,3 +55,9 @@ sudo npm cache clean -f
 #### Mac 安装Git
 
 > [下载链接](https://sourceforge.net/projects/git-osx-installer/)
+
+#### Git 文件名大小写敏感
+
+```s
+git config core.ignorecase false
+```
