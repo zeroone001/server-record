@@ -61,3 +61,12 @@ sudo npm cache clean -f
 ```s
 git config core.ignorecase false
 ```
+
+5. 回退撤销的相关操作
+
+```s
+# 撤销add
+git reset HEAD <filename>
+# 撤销commit
+git reset --hard <commitID>
+```
