@@ -69,4 +69,5 @@ git config core.ignorecase false
 git reset HEAD <filename>
 # 撤销commit
 git reset --hard <commitID>
+git push --force
 ```

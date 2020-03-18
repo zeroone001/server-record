@@ -48,3 +48,9 @@ pm2 start npm --name "xxx" -- run build
 #### 报错：[PM2] Spawning PM2 daemon with pm2_home=/root/.pm2
 
 解决方案： 调整node版本
+
+##### 改了代码，没生效的解决方案：
+```s
+npm run build
+pm2 startOrGracefulReload /data/mobile_haojia_ssr/processes.json
+```
