@@ -90,3 +90,9 @@ git reset HEAD <filename>
 git reset --hard <commitID>
 git push --force
 ```
+
+#### Git 强制切分支
+
+```s
+git checkout -f branchName
+```

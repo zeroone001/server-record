@@ -48,3 +48,5 @@ open -n /Applications/Google\ Chrome.app/ --args --disable-web-security  --user-
 #### shell
 
 [Linux command](http://linuxcommand.org/index.php)
+
+#### 
