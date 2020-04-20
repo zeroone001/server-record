@@ -49,4 +49,8 @@ open -n /Applications/Google\ Chrome.app/ --args --disable-web-security  --user-
 
 [Linux command](http://linuxcommand.org/index.php)
 
-#### 
+#### sourceTree 密码总是自动改的问题解决
+
+* 密码过期处理
+* 钥匙链。忘记密码
+* 访达-前往-文件夹- ~/Library - Application Support - SourceTree
