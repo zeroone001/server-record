@@ -17,3 +17,9 @@
 #### 主题插件
 
 [atomiks.moonlight](https://github.com/atomiks/moonlight-vscode-theme)
+
+#### VSCode 不显示在程序坞中
+
+```s
+killall Dock
+```
