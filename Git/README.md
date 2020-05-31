@@ -96,3 +96,9 @@ git push --force
 ```s
 git checkout -f branchName
 ```
+
+#### Git怎样撤销一次分支的合并Merge
+
+```s
+git reset --hard 【merge前的版本号】
+```
